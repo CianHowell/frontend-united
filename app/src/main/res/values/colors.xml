@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Black -->
+    <color name="black">#FF000000</color>
+    <!-- White -->
+    <color name="white">#FFFFFFFF</color>
+    <!-- Darker Blue (American Airlines) -->
+    <color name="colorDarkBlue">#002244</color>
+    <!-- Royal blue (American Airlines)(logo) -->
+    <color name="colorLogoBlue">#1414D2</color>
+    <!-- Turquoise blue (American Airlines) -->
+    <color name="colorTurquoise">#006080</color>
+    <!-- Sky blue (American Airlines)-->
+    <color name="colorSkyBlue">#C0D8FB</color>
+    <!-- Purple (American Airlines) -->
+    <!-- This color should be used for all action buttons -->
+    <color name="colorPurple">#6244BA</color>
+    <!-- Light Grey (American Airlines)-->
+    <color name="colorLightGrey">#E6E6E6</color>
+    <!-- Dark Grey (American Airlines) -->
+    <color name="colorDarkGrey">#4B4639</color>
+</resources>
